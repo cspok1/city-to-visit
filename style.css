@@ -1,0 +1,36 @@
+body {
+	background-color: saddlebrown;
+}
+h1{
+	color:white;
+	background-color:rgba(209,195,143,1);
+	font-size:50pt;
+	border:1px white solid;
+	border-radius: 10px;
+}
+p {
+	color: rgb(255,255,248);
+	font-family: 'Roboto', sans-serif;
+	border:1px white dashed;
+}
+h2, h3{
+	color:grey;
+}
+h2 {
+	font-size:30pt;
+}
+h3 {
+	font-size:24pt;
+	border-top:1px white solid;
+	border-bottom:9px white solid;
+}
+h1, h2, h3 {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+p {
+	text-align:justify;
+}
+ol,ul {
+	color: rgba(224,221,179,1);
+}
